@@ -321,7 +321,7 @@
     render(
       '<div class="hero">' +
         '<span class="hero-kicker">ELECTRICIAN / PRACTICE FILE № ' + (BANK.id === 'gy' ? '02' : '01') + '</span>' +
-        '<img class="hero-art" src="assets/hero-electrician.webp" alt="原创电工角色插画">' +
+        '<img class="hero-art" src="assets/reference-poster.png" alt="构成主义风格海报局部">' +
         '<div class="hero-top"><h1>' + esc(BANK.name) + '</h1>' +
         (BANKS.length > 1 ? '<button class="bank-switch" id="bankSwitch">切换题库</button>' : '') +
         '</div>' +
