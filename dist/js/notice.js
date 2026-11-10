@@ -9,12 +9,12 @@
     m.className = 'notice-mask';
     m.innerHTML =
       '<div class="notice-card">' +
-        '<img class="notice-ico" src="data/img/apple-touch-icon.png" alt="">' +
+        '<span class="notice-mark" aria-hidden="true">⚡</span>' +
         '<div class="notice-title">电工考证题库</div>' +
         '<div class="notice-sub">低压 / 高压电工作业 · 安全技术培训</div>' +
         '<div class="notice-box">' +
           '<div class="notice-text">仅供参考学习</div>' +
-          '<div class="notice-sign">——三玖</div>' +
+          '<div class="notice-sign">——三玖 · yotoshijo</div>' +
         '</div>' +
         '<button class="notice-btn" type="button">我知道了</button>' +
       '</div>';

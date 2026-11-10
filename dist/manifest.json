@@ -3,8 +3,8 @@
   "short_name": "电工题库",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#2f6bff",
-  "theme_color": "#2f6bff",
+  "background_color": "#f3eee3",
+  "theme_color": "#063f42",
   "orientation": "portrait",
   "icons": [
     {

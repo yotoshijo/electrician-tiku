@@ -162,7 +162,7 @@
   function applyTheme() {
     document.documentElement.setAttribute('data-theme', SET.theme);
     var meta = document.querySelector('meta[name=theme-color]');
-    if (meta) meta.setAttribute('content', SET.theme === 'dark' ? '#11151f' : '#2f6bff');
+    if (meta) meta.setAttribute('content', SET.theme === 'dark' ? '#101a1b' : '#063f42');
   }
   function topBarActive() { return screens.current && screens.current.name !== 'home'; }
 
@@ -320,6 +320,8 @@
 
     render(
       '<div class="hero">' +
+        '<span class="hero-kicker">ELECTRICIAN / PRACTICE FILE № ' + (BANK.id === 'gy' ? '02' : '01') + '</span>' +
+        '<img class="hero-art" src="assets/hero-electrician.webp" alt="原创电工角色插画">' +
         '<div class="hero-top"><h1>' + esc(BANK.name) + '</h1>' +
         (BANKS.length > 1 ? '<button class="bank-switch" id="bankSwitch">切换题库</button>' : '') +
         '</div>' +
@@ -1336,7 +1338,7 @@
       '<div class="tiny" style="text-align:center">' + esc(BANK.name) + ' · 共 ' + N + ' 题 · 数据仅保存在本机</div>' +
       '<div class="me-notice">' +
         '<div class="mn-text">仅供参考学习</div>' +
-        '<div class="mn-sign">——三玖</div>' +
+          '<div class="mn-sign">——三玖 · yotoshijo</div>' +
       '</div>' +
     '</div>';
 
