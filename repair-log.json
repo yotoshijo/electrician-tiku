@@ -1,0 +1,485 @@
+{
+  "date": "2026-11-10",
+  "changes": [
+    {
+      "bank": "lv",
+      "id": 306,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "lv",
+      "id": 624,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "lv",
+      "id": 817,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "lv",
+      "id": 924,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "lv",
+      "id": 1082,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "lv",
+      "id": 1210,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "lv",
+      "id": 1297,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "lv",
+      "id": 1298,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "lv",
+      "id": 1299,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "lv",
+      "id": 1300,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "lv",
+      "id": 1301,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "lv",
+      "id": 1302,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 92,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 290,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 292,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 296,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 527,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 528,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 709,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 882,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 922,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 964,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 1190,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 1192,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 1220,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 1283,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 1316,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1317,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1318,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1319,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1320,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1322,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1323,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1324,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1326,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1327,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1328,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1329,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1330,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1331,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1332,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1333,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1334,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1335,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1336,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1337,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1338,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1341,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1342,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1343,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1344,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1346,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1347,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1348,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1349,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1351,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1352,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1353,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1354,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1356,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1357,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1360,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1361,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1362,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1363,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1364,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1372,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1376,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1384,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1388,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1392,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1396,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1397,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1398,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1400,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1404,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1405,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1407,
+      "field": "tm",
+      "fix": "decode_html_entities"
+    },
+    {
+      "bank": "gy",
+      "id": 1407,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1409,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1410,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1413,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1420,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1425,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1429,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1430,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 1434,
+      "fix": "remove_judge_placeholders"
+    },
+    {
+      "bank": "gy",
+      "id": 882,
+      "fix": "restore_image_from_identical_question",
+      "source": 1353
+    },
+    {
+      "bank": "gy",
+      "id": 883,
+      "fix": "restore_image_from_identical_question",
+      "source": 1354
+    },
+    {
+      "bank": "gy",
+      "id": 990,
+      "fix": "restore_fraction_range_separator"
+    }
+  ],
+  "unresolved": [
+    {
+      "bank": "gy",
+      "id": 1409,
+      "issue": "原始资料缺少配图"
+    }
+  ]
+}
